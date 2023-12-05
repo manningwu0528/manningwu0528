@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manningwu0528
 - 👀 I’m interested in Data Analysis and Machine Learning
-- 🌱 I’m currently learning Applied Statistics in U-M
-- 💞️ I’m looking to become a researach assisitant in ML field, recently.
+- 🌱 I’m currently learning Applied Statistics Accelerated Master Degree Program in U-M
+- 💞️ I’m looking to become a researach assisitant in ML field, recently
 - 📫 You can contact me by lilyhuge@gmail.com
 
 <!---
